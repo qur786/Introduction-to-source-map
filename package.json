@@ -1,0 +1,13 @@
+{
+  "name": "introduction-to-source-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
